@@ -14,6 +14,7 @@ https://github.com/camandel/home-dashboard
 - **Wiki.js** https://js.wiki
 - **Django Wiki** https://github.com/camandel/docker-django-wiki
 - **HackMD** https://github.com/hackmdio/docker-hackmd
+- **FocalBoard** https://github.com/mattermost/focalboard
 ### Third Party
 - **HackMD Online** https://hackmd.io
 - **Notion** www.notion.so
