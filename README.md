@@ -15,6 +15,9 @@ https://github.com/camandel/home-dashboard
 - **Wiki.js** https://js.wiki
 - **Django Wiki** https://github.com/camandel/docker-django-wiki
 - **HackMD** https://github.com/hackmdio/docker-hackmd
+- **Outline** Не тестил, но похоже на клон Notion
+https://github.com/outline/outline
+- **BookStackApp** https://www.bookstackapp.com
 ### Third Party
 - **HackMD Online** https://hackmd.io
 - **Notion** www.notion.so
